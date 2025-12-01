@@ -8,3 +8,5 @@ El **Cracking de Contraseñas** es una técnica utilizada para descifrar contras
 - [[Hydra]]
 - [[John The Ripper]]
 - [[Crunch]]
+- [[Hash Identifier]]
+- [[PDFCrack]]
