@@ -26,4 +26,3 @@ found user-password: '<password>'
 
 Donde viene `<password>` es donde aparece la contraseña del fichero PDF.
 
-

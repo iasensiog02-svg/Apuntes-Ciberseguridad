@@ -36,11 +36,18 @@ En este apartado `--wordlist=rockyou.txt` en vez de poner rockyou.txt también p
 john --show --format=<formato> <fichero>
 ```
 
+---
+
+## Fichero del botín de John
+
 El fichero donde se guardan las contraseñas halladas con sus hashes en la carpeta del usuario y dentro una carpeta oculta llamada `.john`. En el caso de que trabajemos con root estará en la siguiente dirección:
  
 ```
 /root/.john/john.pot
 ```
+
+---
+## Fichero `/etc/shadow`
 
 En el fichero `/etc/shadow` encontramos contraseñas hasheadas de los usuarios del equipo en el siguiente formato:
 

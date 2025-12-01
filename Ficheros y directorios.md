@@ -161,3 +161,7 @@ Además de los ficheros típicos de Linux, Kali incluye:
 ### 📨 **FTP (vsftpd)**
 
 - `/etc/vsftpd.conf` -> Configuración FTP segura
+
+## 🔪 **[[John The Ripper]]**
+
+- 
