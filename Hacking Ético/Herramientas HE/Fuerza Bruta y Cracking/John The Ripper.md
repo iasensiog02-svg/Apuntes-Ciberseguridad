@@ -19,11 +19,19 @@ Para hallar el hash utilizaremos la herramienta `hash-identifier`.
 - `raw-sha256`
 - `raw-md5`
 - `phpass`
-#### Formatos del /etc/shadow
+#### Formatos del /etc/shadow:
+
 - `crypt` -> Su prefijo en el fichero `/etc/shadow` es: `$y$`
 - `md5sum` -> `$1$`
 - `sha256crypt` -> `$5$`
 - `sha512crypt` -> `$6$`
+
+#### Ver la lista de formatos en John the Ripper
+
+```
+john --list=formats | grep <formato>
+```
+
 ---
 
 ### Ejemplo
