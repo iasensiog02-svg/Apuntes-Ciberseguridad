@@ -116,6 +116,13 @@ tail <archivo>
 nano <archivo>
 ```
 
+- Eliminar saltos de línea de un fichero
+
+```
+sed -i 's/[ \t]//g' <fichero>
+```
+
+
 ---
 ## Búsqueda
 

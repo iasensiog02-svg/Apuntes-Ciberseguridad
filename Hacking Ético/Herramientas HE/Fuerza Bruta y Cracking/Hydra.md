@@ -10,10 +10,10 @@ Es una herramienta de [[Fuerza Bruta y Cracking de Contraseñas]] y ataques de d
 - `-p` -> Una sola contraseña.
 - `-P` -> Diccionario de contraseñas.
 - `-V` -> verbose.
-- `-Vv` -> Muestra mucha información
+- `-Vv` -> Muestra mucha información.
 - `-f` -> Parar al encontrar un login válido.
 - `-s` -> Indicar el puerto.
-- `-t` -> Número de hilos, recomendable usar el 64
+- `-t` -> Número de hilos, recomendable usar el 64.
 
 ---
 ### Ejemplos:
@@ -39,7 +39,7 @@ hydra -l <usuario> -P <fichero de contraseñas> <IP> ftp <flags>
 HTTP POST form:
 
 ```
-hydra -l <usuario> -P  <fichero de contraseñas> http-post-form://[IP]/login.php:username=^USER^&password=^PASS^:F=Incorrecto
+hydra -l <usuario> -P <fichero de contraseñas> http-post-form://[IP]/login.php:username=^USER^&password=^PASS^:F=Incorrecto
 ```
 
 MySQL:
