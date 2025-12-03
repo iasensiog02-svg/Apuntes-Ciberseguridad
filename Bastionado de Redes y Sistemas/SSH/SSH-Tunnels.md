@@ -21,6 +21,12 @@ Para que esto funcione se necesita realizar un cambio en lo el fichero `/etc/ssh
 
 ![[Pasted image 20251202202106.png]]
 
+Abre un puerto en la maquina remota que apunta a un puerto de tu maquina local.
+
+Explicación:
+- En la máquina remota, el puerto 7777 queda abierto.
+- Todo lo que llegue va al puerto 80 de tu maquina local
+- Si se usa 0.0.0.0, entonces con ese puerto queda accesible desde cualquier IP.
 
 
 ```
