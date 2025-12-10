@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9dfaa9ec56415915",
+    "id": "17f4e8604a80fae9",
     "type": "split",
     "children": [
       {
-        "id": "c56cdf44ce2d5ef2",
+        "id": "92268eb93096ff40",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b81d07c205966a",
+            "id": "46be8e5630c30724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bastionado de Redes y Sistemas/SSH/SSH-Tunnels.md",
+                "file": "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/Hydra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH-Tunnels"
+              "title": "Hydra"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "249fbb80f2035dce",
+    "id": "6283b2f4128a4b41",
     "type": "split",
     "children": [
       {
-        "id": "c5da06f1d54be283",
+        "id": "d35b0baad6bbaa13",
         "type": "tabs",
         "children": [
           {
-            "id": "9e816641dc10ade2",
+            "id": "8a1ba81da3ecf74e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "ed0679505dcf2c1a",
+            "id": "efe4a47b374f9750",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "92d04cbf392f464e",
+            "id": "17c2b4c539206b2f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "d62be07ef35b1577",
+    "id": "02eced5f10c4fcbd",
     "type": "split",
     "children": [
       {
-        "id": "69402b159fac97ef",
+        "id": "76cea36a5060e926",
         "type": "tabs",
         "children": [
           {
-            "id": "be24319342005e50",
+            "id": "67ac215ad7a1d7d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/John The Ripper.md",
+                "file": "Hacking Ético/Herramientas HE/Hacking Web/Nikto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de John The Ripper"
+              "title": "Enlaces entrantes de Nikto"
             }
           },
           {
-            "id": "c1b61dc7804e0e60",
+            "id": "aa807c037b3ea14f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/John The Ripper.md",
+                "file": "Hacking Ético/Herramientas HE/Hacking Web/Nikto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de John The Ripper"
+              "title": "Enlaces salientes de Nikto"
             }
           },
           {
-            "id": "4455bfc05613826b",
+            "id": "3f0017854da1302b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +138,7 @@
             }
           },
           {
-            "id": "99008852dfd615cb",
+            "id": "6a06d49877f91a14",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +152,18 @@
             }
           },
           {
-            "id": "64d451a7609130b7",
+            "id": "e1e18d96414960de",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/John The Ripper.md",
+                "file": "Hacking Ético/Herramientas HE/Hacking Web/Nikto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de John The Ripper"
+              "title": "Esquema de Nikto"
             }
           }
         ]
@@ -183,36 +184,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e9b81d07c205966a",
+  "active": "46be8e5630c30724",
   "lastOpenFiles": [
-    "Bastionado de Redes y Sistemas/SSH/SSH-Forwarding.md",
-    "Bastionado de Redes y Sistemas/SSH/SSH-Tunnels.md",
-    "Hacking Ético/Herramientas HE/Ataques de red/Man In The Middle.md",
-    "Hacking Ético/Herramientas HE/Ataques de red/Wireshark.md",
-    "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/Crunch.md",
-    "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/Hash Identifier.md",
-    "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/Fuerza Bruta y Cracking de Contraseñas.md",
-    "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/Hydra.md",
-    "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/John The Ripper.md",
-    "Hacking Ético/Herramientas HE/Spoofing/Spoofing Bettercap DNS.md",
-    "Bastionado de Redes y Sistemas/Sin título.md",
-    "Bastionado de Redes y Sistemas/SSH/PSSH.md",
-    "Bastionado de Redes y Sistemas/SSH/SSH.md",
-    "Hacking Ético/Herramientas HE/Spoofing",
-    "Analisis Forense/Análisis Forénse.md",
-    "img/ssh-forwarding.png",
+    "Bastionado de Redes y Sistemas/Fail2ban.md",
     "img/Pasted image 20251202202106.png",
-    "Bastionado de Redes y Sistemas/Encriptación.md",
-    "Bastionado de Redes y Sistemas/SSH/PKI-SSH.md",
-    "Bastionado de Redes y Sistemas/SSH/SSH-Agent.md",
+    "Hacking Ético/Herramientas HE/Spoofing/Spoofing Bettercap DNS.md",
+    "Hacking Ético/Herramientas HE/Spoofing",
     "Hacking Ético/Herramientas HE/Reconocimiento-Escaneo/Tcpdump.md",
-    "Hacking Ético/Herramientas HE/Reconocimiento-Escaneo/Shodan.md",
-    "Hacking Ético/Herramientas HE/Reconocimiento-Escaneo/Reconocimiento y escaneo.md",
-    "Hacking Ético/Herramientas HE/Reconocimiento-Escaneo/NMAP.md",
     "Hacking Ético/Herramientas HE/Reconocimiento-Escaneo/Nikto.md",
-    "Hacking Ético/Herramientas HE/Reconocimiento-Escaneo/Google Dorks.md",
-    "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/PDFCrack.md",
-    "Ciberseguridad.md",
-    "Comandos Linux.md"
+    "Bastionado de Redes y Sistemas/SSH/SSH-Forwarding.md",
+    "Analisis Forense/Análisis Forénse.md",
+    "Analisis Forense",
+    "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/Hydra.md",
+    "Hacking Ético/Herramientas HE/Hacking Web/Nikto.md",
+    "Hacking Ético/Herramientas HE/Hacking Web/Netcat.md",
+    "Hacking Ético/Herramientas HE/Hacking Web/Hacking Web.md",
+    "Bastionado de Redes y Sistemas/Bastionado de Redes y Sistemas.md",
+    "Bastionado de Redes y Sistemas/Port Knocking.md",
+    "Bastionado de Redes y Sistemas/Encriptación.md",
+    "Bastionado de Redes y Sistemas/SSH/SSH-Tunnels.md"
   ]
 }
