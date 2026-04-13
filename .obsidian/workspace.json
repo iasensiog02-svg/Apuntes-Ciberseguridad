@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "53054a2fe7438779",
     "type": "split",
     "children": [
@@ -9,16 +10,35 @@
         "children": [
           {
             "id": "c8b729efefe6c5aa",
+=======
+    "id": "17f4e8604a80fae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "92268eb93096ff40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46be8e5630c30724",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Incidente/Tema 2 .AUDITORIA DE INCIDENTES DE CIBERSEGURIDAD/Resumen.md",
+=======
+                "file": "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/Hydra.md",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Resumen"
+=======
+              "title": "Hydra"
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             }
           }
         ]
@@ -27,6 +47,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "16195c560d5ebfdf",
     "type": "split",
     "children": [
@@ -36,6 +57,17 @@
         "children": [
           {
             "id": "ebbf45c3b3c97e94",
+=======
+    "id": "6283b2f4128a4b41",
+    "type": "split",
+    "children": [
+      {
+        "id": "d35b0baad6bbaa13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1ba81da3ecf74e",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,13 +80,21 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "1478e8e69eb73911",
+=======
+            "id": "efe4a47b374f9750",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
+<<<<<<< HEAD
                 "matchingCase": true,
+=======
+                "matchingCase": false,
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +105,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "88a72cea9cebdd38",
+=======
+            "id": "17c2b4c539206b2f",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,6 +122,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 201.5
   },
   "right": {
@@ -90,11 +135,30 @@
         "children": [
           {
             "id": "fb3107f1a9cdefe9",
+=======
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "02eced5f10c4fcbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cea36a5060e926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67ac215ad7a1d7d9",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Ficheros y directorios.md",
+=======
+                "file": "Hacking Ético/Herramientas HE/Hacking Web/Nikto.md",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +168,45 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Enlaces entrantes de Ficheros y directorios"
             }
           },
           {
             "id": "448d97869452edd8",
+=======
+              "title": "Enlaces entrantes de Nikto"
+            }
+          },
+          {
+            "id": "aa807c037b3ea14f",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Ficheros y directorios.md",
+=======
+                "file": "Hacking Ético/Herramientas HE/Hacking Web/Nikto.md",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Enlaces salientes de Ficheros y directorios"
             }
           },
           {
             "id": "524877e4554c23cf",
+=======
+              "title": "Enlaces salientes de Nikto"
+            }
+          },
+          {
+            "id": "3f0017854da1302b",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +221,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "263678eb878a40cb",
+=======
+            "id": "6a06d49877f91a14",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +239,30 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "2522e4241d9eb3af",
+=======
+            "id": "e1e18d96414960de",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Ficheros y directorios.md",
+=======
+                "file": "Hacking Ético/Herramientas HE/Hacking Web/Nikto.md",
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Esquema de Ficheros y directorios"
+=======
+              "title": "Esquema de Nikto"
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
             }
           }
         ]
@@ -183,6 +283,7 @@
       "bases:Crear nueva base": false
     }
   },
+<<<<<<< HEAD
   "active": "ebbf45c3b3c97e94",
   "lastOpenFiles": [
     "Incidente/Tema 2 .AUDITORIA DE INCIDENTES DE CIBERSEGURIDAD",
@@ -231,5 +332,26 @@
     "Tareas.rar",
     "Bastionado de Redes y Sistemas/Administración/SSH",
     "Bastionado de Redes y Sistemas/Administración/Administración local"
+=======
+  "active": "46be8e5630c30724",
+  "lastOpenFiles": [
+    "Bastionado de Redes y Sistemas/Fail2ban.md",
+    "img/Pasted image 20251202202106.png",
+    "Hacking Ético/Herramientas HE/Spoofing/Spoofing Bettercap DNS.md",
+    "Hacking Ético/Herramientas HE/Spoofing",
+    "Hacking Ético/Herramientas HE/Reconocimiento-Escaneo/Tcpdump.md",
+    "Hacking Ético/Herramientas HE/Reconocimiento-Escaneo/Nikto.md",
+    "Bastionado de Redes y Sistemas/SSH/SSH-Forwarding.md",
+    "Analisis Forense/Análisis Forénse.md",
+    "Analisis Forense",
+    "Hacking Ético/Herramientas HE/Fuerza Bruta y Cracking/Hydra.md",
+    "Hacking Ético/Herramientas HE/Hacking Web/Nikto.md",
+    "Hacking Ético/Herramientas HE/Hacking Web/Netcat.md",
+    "Hacking Ético/Herramientas HE/Hacking Web/Hacking Web.md",
+    "Bastionado de Redes y Sistemas/Bastionado de Redes y Sistemas.md",
+    "Bastionado de Redes y Sistemas/Port Knocking.md",
+    "Bastionado de Redes y Sistemas/Encriptación.md",
+    "Bastionado de Redes y Sistemas/SSH/SSH-Tunnels.md"
+>>>>>>> 9c04ca7d3b7bf57f962e5a68c144519c140232ae
   ]
 }
